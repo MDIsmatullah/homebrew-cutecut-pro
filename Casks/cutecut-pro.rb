@@ -22,3 +22,4 @@ cask "cutecut-pro" do
 end
 brew tap MDIsmatullah/homebrew-cute-cut
 brew install --cask cutecut-pro
+brew audit --cask --online cutecut-pro

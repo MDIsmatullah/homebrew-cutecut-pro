@@ -20,3 +20,5 @@ cask "cutecut-pro" do
     "~/Library/Saved Application State/org.guldasta.cutecutpro.savedState",
   ]
 end
+brew tap MDIsmatullah/homebrew-cute-cut
+brew install --cask cutecut-pro
